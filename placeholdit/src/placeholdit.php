@@ -4,7 +4,7 @@
   *
   * This PHP script generates a placehold.it image placeholder url and HTML code for Alfred.
   *
-  * Version:  1.0.0
+  * Version:  2.0.0
   * Revised:  6/16/14
   * Author:   Brian Lin
   * Website:  https://github.com/brilin01/alfred-workflows
