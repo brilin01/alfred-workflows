@@ -1,4 +1,4 @@
-Image Placeholder Alfred workflow ([Download v2.0.0](https://raw.githubusercontent.com/brilin01/alfred-workflows/master/placeholdit/image-placeholder.alfredworkflow))
+Image Placeholder Alfred workflow ([Download v2.0.1](https://raw.githubusercontent.com/brilin01/alfred-workflows/master/placeholdit/image-placeholder.alfredworkflow))
 =====================
 
 ## Requirements
@@ -10,7 +10,7 @@ Image Placeholder Alfred workflow ([Download v2.0.0](https://raw.githubuserconte
 2. Double-click the file to import into Alfred 2
 
 ## About
-Generates an image placeholder via [placeholder.it](http://placeholder.it).
+Generates an image placeholder via [placehold.it](http://placehold.it).
 
 ![alt text][workflow]
 
