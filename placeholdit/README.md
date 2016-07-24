@@ -1,4 +1,4 @@
-Image Placeholder Alfred workflow ([Download v2.0.1](https://raw.githubusercontent.com/brilin01/alfred-workflows/master/placeholdit/image-placeholder.alfredworkflow))
+Image Placeholder Alfred workflow ([Download v2.0.2](https://raw.githubusercontent.com/brilin01/alfred-workflows/master/placeholdit/image-placeholder.alfredworkflow))
 =====================
 
 ## Requirements
